@@ -40,6 +40,7 @@ about:
   license: MIT
   license_family: MIT
   license_file: LICENSE.txt
+  summary: Fuzzy string matching library.
   description: |
     Fuzzy string matching like a boss. It uses [Levenshtein Distance][_LD] to
     calculate the differences between sequences in a simple-to-use package.
